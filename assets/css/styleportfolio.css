@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-image: url('../images/beanstalk.png');
+}
+
+.box {
+    position: relative;
+    height: 125px;
+    width: 150px;
+    background-color: pink;
+}
+
+
+header {
+    background-color: #ffffff;
+    height: 70px;
+    border-bottom: 5px solid #cccccc;
+    float: none;
+}
+
+.header2 {
+    width: 930px;
+    margin: 0 auto;
+}
+
+.headingfont {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1 {
+    color: white;
+    background-color: #4aaaa5;
+    display: inline;
+    float: left;
+    padding: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h3 {
+    float: right;
+    display: inline;
+    padding-top: 7px;
+}

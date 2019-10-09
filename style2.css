@@ -1,0 +1,84 @@
+body {
+    background-image: url("beanstalk.png");
+    margin: 0;
+    padding: 0;
+}
+
+.aboutme {
+    background-color: #ffffff;
+    width: 930px;
+    margin: 0 auto;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+
+.header2 {
+    width: 930px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #ffffff;
+    height: 65px;
+    border-bottom: 5px solid #cccccc;
+    float: none;
+}
+
+h1 {
+    color: white;
+    background-color: #4aaaa5;
+    display: inline;
+    float: left;
+    padding: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h3 {
+    float: right;
+    display: inline;
+    padding-top: 7px;
+}
+
+img {
+    float: left;
+    max-height: 250px;
+    max-width: 250px;
+    margin-right: 15px;
+}
+
+h2 {
+    color: #4aaaa5;
+    border-bottom: 3px solid #cccccc;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.headingfont {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.otherfont {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.footer {
+    background-color: #666666;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    border-top: 5px #4aaaa5;
+    bottom: 0;
+}
+
+.container {
+    position: relative;
+    min-height: 100vh;
+}
+
+.contentwrap {
+    padding-bottom: 5px;
+}
