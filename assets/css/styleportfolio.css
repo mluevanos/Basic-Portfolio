@@ -95,6 +95,14 @@ h2 {
     padding-bottom: 15px;
 }
 
+.space {
+    margin-right: 10px;
+    font-size: 10pt;
+    margin-top: 30px;
+    color: #cccccc;
+    font-weight: bold;
+}
+
 .container1 {
     width: 600px;
     background-color: #ffffff;

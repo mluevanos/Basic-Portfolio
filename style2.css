@@ -14,6 +14,14 @@ body {
     margin-top: 20px;
 }
 
+.space {
+    margin-right: 10px;
+    font-size: 10pt;
+    margin-top: 30px;
+    color: #cccccc;
+    font-weight: bold;
+}
+
 .header2 {
     width: 930px;
     margin: 0 auto;
